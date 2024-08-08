@@ -88,6 +88,7 @@
 <script src="{{secure_asset('assets/js/jQueryUi.js')}}"></script>
 <script src="{{secure_asset('assets/js/textRotate.min.js')}}"></script>
 <script src="{{secure_asset('assets/js/select2.min.js')}}"></script>
+<script src="{{secure_asset('assets/js/all.min.js')}}"></script>
 <script src="{{secure_asset('assets/js/main.js')}}"></script>
 <script src="{{secure_asset('dist/js/jquery-validate/jquery.validate.js')}}"></script>
 <script src="{{secure_asset('dist/js/jquery-validate/jquery.validate.min.js')}}"></script>
