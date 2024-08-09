@@ -7752,14 +7752,14 @@ RTL - Right to Left
 }
 
 .slick-track {
-  opacity: 1;
-  transform: translate3d(0px, 0px, 0px);
-  width: unset;
+    opacity: 1;
+    transform: translate3d(0px, 0px, 0px);
+    width: unset;
 }
 
 .slick-wrapper.slick-initialized.slick-slider.slick-dotted {
-  width: clamp(300px, 104%, 736px);
-  margin: auto;
+    width: 100%;
+    margin: auto;
 }
 .st-testimonial.st-style1.wow.animated.animated {
     max-width: 352px;
