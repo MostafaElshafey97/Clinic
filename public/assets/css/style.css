@@ -1662,11 +1662,11 @@ hr {
 }
 .st-top-header-list svg {
     width: 18px;
-    margin-right: 10px;
+    margin-inline-end: 10px;
     fill: #000000;
 }
 .st-top-header-list li {
-    margin-right: 35px;
+    margin-inline-end: 35px;
     color: #111;
     font-size: 14px;
     display: -webkit-box;
